@@ -1,0 +1,10 @@
+.bg-info{
+    background-color: #eceae8 !important;
+}
+#categories img{
+    width: 100;
+}
+.btn-panda-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #ff589B 0% #ff4b92 100%);
+}
